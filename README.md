@@ -11,6 +11,6 @@
 
 - Software: Kicad 8
 - Version: 3
-- PCB size: 32.5x28mm
+- PCB size: 16.4mmx28mm
 - Layer count: 6
 - Recommended thickness: 0.8mm (for the USB-C plug)
